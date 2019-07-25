@@ -1,0 +1,12 @@
+/target/
+/out/
+/classes/
+.idea/
+*.iml
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
